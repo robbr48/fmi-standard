@@ -1,0 +1,15 @@
+=== FMI Application Programming Interface
+
+
+==== State Machine of Calling Sequence from Master to Slave
+
+
+==== Pseudo-code Example
+
+//In the following example...
+See pseudocode:
+[source, c]
+----
+include::examples/pseudo_code_co_simulation_intermediate_variable_access.txt[]
+----
+
